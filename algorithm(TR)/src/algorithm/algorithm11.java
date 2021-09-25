@@ -43,6 +43,7 @@ public class algorithm11 {
 	// arr[0][1]
 	// arr[1][0]
 	// arr[1][1]
+	
 	//이런식으로 진행됨 
 
 }
